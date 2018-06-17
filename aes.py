@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 14 16:01:44 2018
-
-@author: ubuntupc
-"""
 
 # AUTO-ENCODEUR EMPLIE
 
